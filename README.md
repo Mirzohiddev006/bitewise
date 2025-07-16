@@ -1,7 +1,4 @@
 # BiteWise Professional Landing Page
-
-This project is a professional landing page inspired by the MNTN Figma design, using content from BiteWise.pdf. Built with React, TypeScript, Vite, and modern CSS for a clean, responsive, and accessible user experience.
-
 ## Features
 
 - Modern, visually appealing layout inspired by the MNTN Figma design
