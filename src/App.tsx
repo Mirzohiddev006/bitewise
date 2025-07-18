@@ -3,6 +3,17 @@ import "./App.css";
 function App() {
   return (
     <main className="bitewise-landing">
+      <div
+        style={{
+          background: "#ff0",
+          color: "#000",
+          padding: "1rem",
+          textAlign: "center",
+          fontWeight: "bold",
+        }}
+      >
+        TEST: Agar bu xabarni ko'rsangiz, sayt yangilandi!
+      </div>
       <header className="hero">
         <nav className="navbar" aria-label="Main Navigation">
           <div className="logo">BiteWise</div>
