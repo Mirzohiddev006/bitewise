@@ -1,4 +1,5 @@
 import "./App.css";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -116,12 +117,7 @@ function App() {
           </div>
         </div>
       </section>
-      <footer className="footer">
-        <div>© {new Date().getFullYear()} BiteWise. All rights reserved.</div>
-        <div id="contact">
-          Contact: <a href="mailto:info@bitewise.com">info@bitewise.com</a>
-        </div>
-      </footer>
+      <Footer />
     </main>
   );
 }
