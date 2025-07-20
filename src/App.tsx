@@ -7,13 +7,14 @@ function App() {
       <div
         style={{
           background: "#ff0",
-          color: "#000",
           padding: "1rem",
           textAlign: "center",
           fontWeight: "bold",
+          textTransform: "uppercase",
+          color: "red",
         }}
       >
-        TEST: Agar bu xabarni ko'rsangiz, sayt yangilandi!
+        Sayt test rejimida ishlamoqda!
       </div>
       <header className="hero">
         <nav className="navbar" aria-label="Main Navigation">
